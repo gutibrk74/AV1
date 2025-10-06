@@ -1,0 +1,13 @@
+{
+  "name": "aerocode",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "node out/index.js",
+    "dev": "tsc && node out/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.2",
+    "typescript": "^5.3.0"
+  }
+}

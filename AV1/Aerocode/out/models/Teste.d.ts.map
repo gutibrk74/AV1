@@ -1,0 +1,1 @@
+{"version":3,"file":"Teste.d.ts","sourceRoot":"","sources":["../../src/models/Teste.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,uBAAuB,CAAC;AAClD,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAE5D,cAAM,KAAK;IACT,IAAI,EAAE,SAAS,CAAC;IAChB,SAAS,EAAE,cAAc,CAAC;gBAEd,IAAI,EAAE,SAAS,EAAE,SAAS,EAAE,cAAc;CAIvD;AAED,OAAO,EAAE,KAAK,EAAE,CAAC"}
